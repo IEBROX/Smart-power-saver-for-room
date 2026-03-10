@@ -42,4 +42,4 @@ This project automatically controls room lighting using a PIR motion sensor and 
 
 ## Author
 Het Patel
-
+Applied Electronics project

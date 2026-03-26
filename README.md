@@ -54,6 +54,24 @@ This project was developed as part of the **Applied Electronics Assignment** for
 
 ---
 
+## 📄 Documentation
+
+- [Project Summary](docs/project-summary.md)
+- [Full Project Report](docs/Motion_Detector_PIR_Report.pdf)
+- [Components List](hardware/components-list.md)
+- [Circuit Connections](hardware/circuit-connections.md)
+- [Timing Calculation](hardware/timing-calculation.md)
+- [Troubleshooting Guide](hardware/troubleshooting.md)
+
+## 🔌 How to Build
+
+1. Connect the PIR sensor to the 5V supply and 555 timer trigger input.
+2. Configure the 555 timer in monostable mode.
+3. Connect the output of the 555 timer to BC547 transistor through 10K resistor.
+4. Connect the transistor to the relay coil.
+5. Connect the load through relay NO and C terminals.
+6. Power the circuit and allow PIR sensor to stabilize.
+7. Move in front of the sensor to test operation.
 ## ⏱️ Timing Formula
 
 The output ON time of the 555 timer in monostable mode is given by:

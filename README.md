@@ -79,7 +79,7 @@ The output ON time of the 555 timer in monostable mode is given by:
 ## 📷 Project Images
 
 ### Circuit Diagram
-![Circuit Diagram](Images/Motion_sensor_using_PIR.png)
+![Circuit Diagram](Images/Motion_sensor_using _PIR.png)
 
 ### Breadboard Setup
 ![Breadboard Setup](Images/motion_sensor_Bread_Board.jpeg)

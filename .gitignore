@@ -1,0 +1,20 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.log
+
+# Proteus / simulation temp files
+*.bak
+*.dbk
+*.dsn.bak
+*.pdsbak
+
+# Word temporary files
+~$*.docx

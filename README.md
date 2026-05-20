@@ -1,4 +1,4 @@
-# Motion Detector Using PIR Sensor
+# Motion Detector/Smart Power Saver Using PIR Sensor
 
 Automatic Room Lighting and Load Control System using **PIR Sensor, NE555 Timer IC, BC547 Transistor, and Relay**.
 
